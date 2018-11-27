@@ -83,7 +83,62 @@ a {
 
 .thumbnail-image
 {
-    width: 500px;
+    width: 470px;
     height:300px;
-    padding: 10%;
+    
+    margin: 5px;
+    
+}
+
+.brookk
+{
+  text-align: center;
+    padding: 20px;
+   
+
+    
+}
+
+.about-text
+{
+     margin: auto;
+     width: 50%;
+     border: 3px solid black;
+     padding: 10px;
+}
+
+.luffy-image
+{
+   width: 1500px;
+    height:auto;
+    border-image: url(border.png) 30 round;
+}
+
+.leftPane
+{
+     font-size: 30px;
+}
+
+.clicks
+{
+    font-size: 40px;
+    font-style: italic;
+}
+
+.abs
+{
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+}
+.cdd
+{
+   
+    font-size: 20px;
+}
+
+.pope
+{
+    width:1000px;
+    height:auto;
 }
